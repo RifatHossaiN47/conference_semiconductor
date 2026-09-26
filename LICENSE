@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Md Rifat Hossen
+Copyright (c) 2025 Md Rifat Hossen, Md Nahian Abdullah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,7 +22,8 @@ SOFTWARE.
 
 ---
 
-Note: This software implements research published at IEEE ECCE 2025.
-Please cite the original paper when using this code:
-
+Note: This software accompanies the research paper published at IEEE ECCE 2025:
+"Advancing Semiconductor Fabrication: A CNN-Based Wafer Defect Detection with XAI Insights"
+Authors: Md Rifat Hossen, Md Nahian Abdullah
 DOI: 10.1109/ECCE64574.2025.11013292
+IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/11013292

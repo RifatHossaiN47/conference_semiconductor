@@ -59,10 +59,10 @@ Thumbs.db
 *.tmp
 *.bak
 
-# Results and outputs
+# Media whitelist (allow images and results to be tracked)
 *.png
 *.jpg
 *.jpeg
-!images/*.png
-!images/*.jpg
-!images/*.jpeg
+!images/**
+!results/**
+!docs/**
